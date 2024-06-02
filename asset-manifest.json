@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Onyx-Raffles/static/css/main.b81a5f29.css",
+    "main.js": "/Onyx-Raffles/static/js/main.3f69c08a.js",
+    "static/js/453.ca052212.chunk.js": "/Onyx-Raffles/static/js/453.ca052212.chunk.js",
+    "static/media/loginBackground.png": "/Onyx-Raffles/static/media/loginBackground.4c6e5c29ddbcc419e221.png",
+    "static/media/top.png": "/Onyx-Raffles/static/media/top.98d5ad22baba413563da.png",
+    "static/media/car_bottom.png": "/Onyx-Raffles/static/media/car_bottom.cb2781a27b6ff7ade36e.png",
+    "static/media/bottom.png": "/Onyx-Raffles/static/media/bottom.0311e44a9f54b67564d3.png",
+    "static/media/homeBackground.png": "/Onyx-Raffles/static/media/homeBackground.cf3389fd24b85d652cd0.png",
+    "static/media/car1.png": "/Onyx-Raffles/static/media/car1.42e1571e2204e9d50d03.png",
+    "static/media/left_mobile.png": "/Onyx-Raffles/static/media/left_mobile.2eac78817cea73543533.png",
+    "static/media/car0.png": "/Onyx-Raffles/static/media/car0.5b079febe9d29077dd16.png",
+    "static/media/right_mobile.png": "/Onyx-Raffles/static/media/right_mobile.99e07e56206e3dea4d4f.png",
+    "static/media/car2.png": "/Onyx-Raffles/static/media/car2.82fdaaad6a4a136d2c58.png",
+    "static/media/right_desktop.png": "/Onyx-Raffles/static/media/right_desktop.7fb44555cb8e1fe70376.png",
+    "static/media/left_desktop.png": "/Onyx-Raffles/static/media/left_desktop.e52f9441690cfc7f09b5.png",
+    "static/media/title.png": "/Onyx-Raffles/static/media/title.e9ecfe6e07dea0bb42b8.png",
+    "static/media/car3.png": "/Onyx-Raffles/static/media/car3.3483e8a66e8a605b4f1f.png",
+    "static/media/label2.png": "/Onyx-Raffles/static/media/label2.f61dfa70856fc6d54651.png",
+    "static/media/label1.png": "/Onyx-Raffles/static/media/label1.30dd3c8530c011eb4fd3.png",
+    "static/media/label0.png": "/Onyx-Raffles/static/media/label0.77378cc606cc16b49458.png",
+    "static/media/label3.png": "/Onyx-Raffles/static/media/label3.f78d77f4adffa2bde655.png",
+    "static/media/logo.png": "/Onyx-Raffles/static/media/logo.cdc49329e7538ff06530.png",
+    "index.html": "/Onyx-Raffles/index.html",
+    "main.b81a5f29.css.map": "/Onyx-Raffles/static/css/main.b81a5f29.css.map",
+    "main.3f69c08a.js.map": "/Onyx-Raffles/static/js/main.3f69c08a.js.map",
+    "453.ca052212.chunk.js.map": "/Onyx-Raffles/static/js/453.ca052212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b81a5f29.css",
+    "static/js/main.3f69c08a.js"
+  ]
+}
