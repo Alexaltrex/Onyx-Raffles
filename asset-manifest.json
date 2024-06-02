@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Onyx-Raffles/static/css/main.b81a5f29.css",
-    "main.js": "/Onyx-Raffles/static/js/main.3f69c08a.js",
+    "main.js": "/Onyx-Raffles/static/js/main.7dd6e46e.js",
     "static/js/453.ca052212.chunk.js": "/Onyx-Raffles/static/js/453.ca052212.chunk.js",
     "static/media/loginBackground.png": "/Onyx-Raffles/static/media/loginBackground.4c6e5c29ddbcc419e221.png",
     "static/media/top.png": "/Onyx-Raffles/static/media/top.98d5ad22baba413563da.png",
@@ -24,11 +24,11 @@
     "static/media/logo.png": "/Onyx-Raffles/static/media/logo.cdc49329e7538ff06530.png",
     "index.html": "/Onyx-Raffles/index.html",
     "main.b81a5f29.css.map": "/Onyx-Raffles/static/css/main.b81a5f29.css.map",
-    "main.3f69c08a.js.map": "/Onyx-Raffles/static/js/main.3f69c08a.js.map",
+    "main.7dd6e46e.js.map": "/Onyx-Raffles/static/js/main.7dd6e46e.js.map",
     "453.ca052212.chunk.js.map": "/Onyx-Raffles/static/js/453.ca052212.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b81a5f29.css",
-    "static/js/main.3f69c08a.js"
+    "static/js/main.7dd6e46e.js"
   ]
 }
